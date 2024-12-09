@@ -1,0 +1,188 @@
+[
+  {
+    "name": "소화기",
+    "subItems": [
+      {
+        "name": "손쉽게 사용할 수 있는 장소에 설치 여부",
+        "status": "NOT_CHECKED",
+        "videoUrl": "https://youtu.be/c4L7QEB-s3c",
+        "description": "습기, 직사광선 등을 피하고 신속히 사용할 수 있는 장소에 비치되어 있는지 확인해주세요."
+      },
+      {
+        "name": "용기 변형, 손상, 부식 여부",
+        "status": "NOT_CHECKED",
+        "videoUrl": "https://youtu.be/QGMr1KTKZTc",
+        "description": "변형, 손상, 부식 된 상태인지 확인해 주세요."
+      },
+      {
+        "name": "안전핀 체결 여부",
+        "status": "NOT_CHECKED",
+        "videoUrl": "https://youtu.be/k39B19pz6SU",
+        "description": "손잡이 전단부에 안전핀이 체결 되어 있는지 확인해주세요."
+      },
+      {
+        "name": "지시압력계의 정상 여부",
+        "status": "NOT_CHECKED",
+        "videoUrl": "https://youtu.be/Wj-rOORqUmk",
+        "description": "게이지가 정상(녹색)에 위치하는지 확인해주세요."
+      },
+      {
+        "name": "수동식 분말 소화기 내용연수(10년) 적정 여부",
+        "status": "NOT_CHECKED",
+        "videoUrl": "https://youtu.be/921r4xNmdM0",
+        "description": "\"제조일자\"로부터 10년 또는 \"내용연수\",\"내용연한\"으로 기재된 일자까지 사용 가능합니다."
+      }
+    ],
+    "status": "NOT_CHECKED"
+  },
+  {
+    "name": "자동확산 소화기",
+    "subItems": [
+      {
+        "name": "설치상태 및 외형의 변형, 손상, 부식 여부",
+        "status": "NOT_CHECKED",
+        "videoUrl": "https://youtu.be/j6G_oesvu_4",
+        "description": "보일러가 설치된 장소의 천장에 설치되어 있으며, 변형, 손상, 부식된 상태인지 확인해주세요."
+      },
+      {
+        "name": "지시압력계의 정상 여부",
+        "status": "NOT_CHECKED",
+        "videoUrl": "https://youtu.be/qmIg0bMEuCY",
+        "description": "게이지가 정상(녹색)에 위치하는지 확인해주세요."
+      }
+    ],
+    "status": "NOT_CHECKED"
+  },
+  {
+    "name": "주거용 주방자동 소화장치",
+    "subItems": [
+      {
+        "name": "수화약제용기 지시압력계의 정상 여부",
+        "status": "NOT_CHECKED",
+        "videoUrl": "https://youtu.be/CbB1G9yoUoo",
+        "description": "가스렌지가 설치된 장소의 천장 또는 싱크대 상단에 설치되어 있으며, 게이지가 정상(녹색)에 위치하는지 확인해주세요."
+      },
+      {
+        "name": "수신부의 전원표시등 정상 점등 여부",
+        "status": "NOT_CHECKED",
+        "videoUrl": "https://youtu.be/u08i6wWYdd4",
+        "description": "가스렌지와 연결된 가스배관 또는 싱크대 상부의 하단에 설치되며, 정상(녹색)으로 점등이 되어 있는지 확인해주세요."
+      }
+    ],
+    "status": "NOT_CHECKED"
+  },
+  {
+    "name": "스프링클러",
+    "subItems": [
+      {
+        "name": "헤드 변형, 손상, 부식 유무",
+        "status": "NOT_CHECKED",
+        "videoUrl": "https://youtu.be/0n7_hwN6r_M",
+        "description": "헤드부분의 설치상태를 육안으로 점검하며, 변형, 손상, 부식 된 상태인지 확인해주세요."
+      }
+    ],
+    "status": "NOT_CHECKED"
+  },
+  {
+    "name": "자동화재탐지설비",
+    "subItems": [
+      {
+        "name": "감지기 변형, 손상, 탈락 여부",
+        "status": "NOT_CHECKED",
+        "videoUrl": "https://youtu.be/Vxk9HRcYS9g",
+        "description": "변형, 손상, 탈락 등을 육안으로 확인해주세요."
+      }
+    ],
+    "status": "NOT_CHECKED"
+  },
+  {
+    "name": "가스누설 경보기",
+    "subItems": [
+      {
+        "name": "전원표시등 정상 점등 여부",
+        "status": "NOT_CHECKED",
+        "videoUrl": "https://youtu.be/mWKXXGB4mHo",
+        "description": "정상 점등상태를 육안으로 확인하며, 외관의 변형, 손상, 탈락 등을 확인해주세요."
+      }
+    ],
+    "status": "NOT_CHECKED"
+  },
+  {
+    "name": "완강기",
+    "subItems": [
+      {
+        "name": "피난기구 위치 적정성 여부",
+        "status": "NOT_CHECKED",
+        "videoUrl": "https://youtu.be/ryXFHMmHJvc",
+        "description": "공동주택의 경우 3층-10층까지 설치 대상이며, 창문옆에 설치되어 있는지 확인해주세요."
+      },
+      {
+        "name": "완강기 외형의 변형, 손상, 부식 여부",
+        "status": "NOT_CHECKED",
+        "videoUrl": "https://youtu.be/DPM8E4G5IqE",
+        "description": "부속품 결속 상태, 손상 및 부식 여부와 로프걸이 조임볼트 및 로프상태를 확인해주세요."
+      },
+      {
+        "name": "설치 여부 및 장애물로 인한 피난 지장 여부",
+        "status": "NOT_CHECKED",
+        "videoUrl": "https://youtu.be/-alWNYLi-8Y",
+        "description": "장애물 적치 상태를 확인하고, 창문의 개방 이상유무를 확인해주세요."
+      }
+    ],
+    "status": "NOT_CHECKED"
+  },
+  {
+    "name": "피난구용 내림식 사다리",
+    "subItems": [
+      {
+        "name": "피난기구 위치 표지 및 사용방법 표지 유무",
+        "status": "NOT_CHECKED",
+        "videoUrl": "https://youtu.be/4uz9pYe-AyY",
+        "description": "설치 상태와 표지의 유무를 확인해주세요."
+      },
+      {
+        "name": "설치 여부 및 장애물로 인한 피난 지장 여부",
+        "status": "NOT_CHECKED",
+        "videoUrl": "https://youtu.be/3Adf1uUOb8g",
+        "description": "피난 시, 지장이 없도록 장애물 여부를 확인해주세요."
+      }
+    ],
+    "status": "NOT_CHECKED"
+  },
+  {
+    "name": "대피공간",
+    "subItems": [
+      {
+        "name": "방화문(방화구획)의 적정 여부",
+        "status": "NOT_CHECKED",
+        "videoUrl": "https://youtu.be/sQCfxY9jrg0",
+        "description": "설치 여부 및 공간이 어디 설치 되어 있는지를 확인해주세요."
+      },
+      {
+        "name": "적치물(쌓아놓은 물건)로 인한 피난 장애 여부",
+        "status": "NOT_CHECKED",
+        "videoUrl": "https://youtu.be/JgMK56nNGaw",
+        "description": "피난 시, 지장이 없도록 장애물 여부를 확인해주세요."
+      }
+    ],
+    "status": "NOT_CHECKED"
+  },
+  {
+    "name": "경량칸막이",
+    "subItems": [
+      {
+        "name": "정보를 포함한 표지 부착 여부",
+        "status": "NOT_CHECKED",
+        "videoUrl": "https://youtu.be/tWdnM-EsTWc",
+        "description": "비상탈출(경량칸막이) 및 적재금지 표시를 확인해주세요."
+      },
+      {
+        "name": "적치물(쌓아놓은 물건)로 인한 피난 장애 여부",
+        "status": "NOT_CHECKED",
+        "videoUrl": "https://youtu.be/YoNTYgp-A6k",
+        "description": "경량칸막이피난 시, 지장이 없도록 장애물 여부를 확인해주세요."
+      }
+    ],
+    "status": "NOT_CHECKED"
+  }
+]
